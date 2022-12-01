@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdusGaming
-- 👀 I’m interested in studying CS in TUM
-- 🌱 I’m currently learning Web development with the MDN course
+- 👀 I’m interested in studying CS at TUM
+- 🌱 I’m currently learning Web development with NextJs
 - 💞️ I’m looking to collaborate on ... 
 - 📫 You can reach me at @AdamSmielewski on Twitter
 
