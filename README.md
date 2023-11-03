@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdusGaming
-- 👀 I’m interested in studying Information Systems at TUM
+- 👀 I’m studying Buisness Informatics at TUM
 - 🌱 I’m currently learning Angular and Docker
 - 📫 You can reach me at @AdamSmielewski on Twitter
 
